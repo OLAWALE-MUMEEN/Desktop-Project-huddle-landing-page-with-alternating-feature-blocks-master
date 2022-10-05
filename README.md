@@ -24,7 +24,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://olawale-mumeen.github.io/Desktop-Project-huddle-landing-page-with-alternating-feature-blocks-master/)
 
 ## My process
 
